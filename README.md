@@ -1,16 +1,8 @@
-# flutter_application_5
+ahmad ziya ulhaq
+14022300071
 
-A new Flutter project.
+aplikasi toko ikan hias
 
-## Getting Started
+<img width="1920" height="1040" alt="AquaStore - Toko Ikan Hias - Profile 1 - Microsoft​ Edge 12_9_2025 7_55_24 PM" src="https://github.com/user-attachments/assets/17a4d8a1-21f4-4d60-8600-a831b5051fd6" />
+<img width="1920" height="1040" alt="AquaStore - Toko Ikan Hias - Profile 1 - Microsoft​ Edge 12_9_2025 7_55_36 PM" src="https://github.com/user-attachments/assets/5681993e-5673-4757-8ab0-17c633577e82" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
